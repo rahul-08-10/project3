@@ -1,0 +1,12 @@
+.Header{
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  .Header ul{
+    display: flex;
+    list-style: none;
+    gap:24px;
+    margin-top: 20px;
+}
