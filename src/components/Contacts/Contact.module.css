@@ -1,7 +1,11 @@
 .value h1{
     font-size: 30px;
     font-weight: 800px;
+    padding: 0px 10%;
+    padding-left: 188px;
 }
 .value p{
-    background-color: aquamarine;
+    padding: 0px 10%;
+    padding-left: 188px;
+    line-height: 25px;
 }

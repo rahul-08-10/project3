@@ -1,9 +1,9 @@
-import styles from "/Contacts/Contact.module.css";
+import styles from "./Contact.module.css";
 export const Contactfile = ()=>{
     return (
-        <div className={`${styles.Contactfile} container`}>
-            <h1>Contact us</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta rem placeat eligendi in laboriosam velit. Ab ut, temporibus molestias ullam sint esse commodi, corrupti a voluptates dolores exercitationem? Ad, deleniti.</p>
+        <div className={`${styles.value} container`}>
+            <h1>CONTACT US</h1>
+            <p>LET’S CONNECT: WE’RE HERE TO HELP, AND WE’D LOVE TO HEAR FROM YOU! WHETHER YOU HAVE A QUESTION, COMMENT, OR JUST WANT TO CHAT , YOU CAN REACH OUT TO US THROUGH THE CONTACT FORM OF THIS PAGE, OR BY PHONE, EMAIL, OR SOCIAL MEDIA. </p>
         </div>
     )
 }

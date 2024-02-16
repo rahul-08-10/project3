@@ -2,7 +2,7 @@
 import styles from  "./Navigation.module.css"
 export const Headerfile = () => {
   return (
-    <div className={`${styles.Headerfile}  container`}>
+    <div className={`${styles.Header}  container`}>
         <div className="logo">
             <img src="/images/Frame2.png" alt="logo" />
         </div>
